@@ -1,0 +1,1 @@
+/Users/patriciaparker/Documents/Websites/generalassembly.dev/wp-content/plugins/query-monitor-master/wp-content/db.php
